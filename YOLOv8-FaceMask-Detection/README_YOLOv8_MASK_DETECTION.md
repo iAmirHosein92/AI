@@ -40,13 +40,13 @@ It classifies faces into the following categories:
 [
   {
     "class": "without_mask",
-    "confidence": 0.85,
-    "bbox": [342.3, 112.4, 456.1, 212.9]
-  },
-  {
-    "class": "with_mask",
-    "confidence": 0.91,
-    "bbox": [100.3, 70.5, 154.9, 132.2]
+    "confidence": 0.87,
+    "bbox": [
+      156.29,
+      47.1,
+      199.78,
+      100.86
+    ]
   }
 ]
 ```
