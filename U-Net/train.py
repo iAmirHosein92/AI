@@ -12,7 +12,6 @@ import os
 from PIL import Image
 import numpy as np
 
-# پارامترها
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 image_dir = './images'
 mask_dir = './masks'
